@@ -1,0 +1,2 @@
+# proyectoscript
+holaaa
